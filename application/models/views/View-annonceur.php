@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>ARTISTE</title>
+        <title>ANNONCEURS</title>
         <link rel="stylesheet" type="text/css" href="../../../public/style/style.css"/> <!-- Ajout de la feuille de style -->
         <link rel="icon" type="image/png" href="favicon.ico" /> <!-- Mis en place du favicon -->
         <meta charset="UTF-8">
